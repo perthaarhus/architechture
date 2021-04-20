@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Læses"
+    id="a1fd1865-25f1-48cc-af74-5325872d084e"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_ed88360e-8d2c-4511-88e3-4582a132c9b5.xml#ed88360e-8d2c-4511-88e3-4582a132c9b5"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_720a751b-b9c0-45aa-90df-49b15eef00d3.xml#720a751b-b9c0-45aa-90df-49b15eef00d3"/>
+</archimate:AccessRelationship>

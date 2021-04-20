@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FlowEngine API"
+    id="ed88360e-8d2c-4511-88e3-4582a132c9b5"
+    documentation="Camunda &#xA;DCR Graphs&#xA;&#xA;En flow motor abstraktion fra Forms til en flow motor. &#xA;Udnyttelse af Drupals flow motor til de initiale standard flows&#xA;"/>

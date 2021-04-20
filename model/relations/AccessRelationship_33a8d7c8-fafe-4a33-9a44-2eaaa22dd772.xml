@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skabes"
+    id="33a8d7c8-fafe-4a33-9a44-2eaaa22dd772"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_b251e027-ed36-49bf-b4e4-5dc3a901483a.xml#b251e027-ed36-49bf-b4e4-5dc3a901483a"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_720a751b-b9c0-45aa-90df-49b15eef00d3.xml#720a751b-b9c0-45aa-90df-49b15eef00d3"/>
+</archimate:AccessRelationship>
