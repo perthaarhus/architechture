@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deleportal - koncept"
+    id="id-2543dbb32cd34fa9bea7262f7ea15d0a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b4fd4b653e264141847662402251e34b">
+    <bounds
+        x="179"
+        y="289"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-0ddd5e397b064c1c854207d10c1d8b3f.xml#id-0ddd5e397b064c1c854207d10c1d8b3f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6ec49203e1e24f8e9d7b517c5599724e">
+    <bounds
+        x="684"
+        y="252"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationCollaboration"
+        href="ApplicationCollaboration_a0b61448-ee3c-429d-8cce-786c50af2458.xml#a0b61448-ee3c-429d-8cce-786c50af2458"/>
+  </children>
+</archimate:ArchimateDiagramModel>
